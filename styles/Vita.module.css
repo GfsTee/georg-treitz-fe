@@ -1,0 +1,5 @@
+.vitaGrid {
+    display: grid;
+    grid-template-columns: max-content auto;
+    gap: .5rem 0;
+}
