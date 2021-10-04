@@ -1,5 +1,14 @@
 .vitaHeadline {
     grid-column: 1 / -1;
     margin: 2rem 0 .5rem;
-    
+    color: #000;
+    color: rgba(0, 0, 0, 0);
+    -webkit-text-stroke: 1px #000;
+
+}
+.vitaHeadline span {
+    font-weight: 400;
+    font-size: .8em;
+    color: #000;
+    -webkit-text-stroke: 0px #000;
 }
